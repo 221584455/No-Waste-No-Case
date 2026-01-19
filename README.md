@@ -1,12 +1,12 @@
-No Waste No Case ♻️📊
+# No Waste No Case ♻️📊
 
-A Data-Driven Food Waste Reduction Platform
+##  A Data-Driven Food Waste Reduction Platform
 
 No Waste No Case is a data-centric platform designed to reduce food waste by capturing, processing, and analyzing surplus food data from individuals, restaurants, and food manufacturers, then matching it with demand from communities and organizations in need.
 
 The project treats food waste as a data problem: inefficient distribution, poor visibility, and lack of actionable insights.
 
-📌 Problem Statement (Data View)
+## 📌 Problem Statement (Data View)
 
 Food waste occurs largely because:
 
@@ -18,7 +18,7 @@ Decisions are made without historical or real-time insights
 
 This platform creates a structured data pipeline that turns food surplus events into usable datasets for smarter allocation and long-term optimization.
 
-🔍 Data Objectives
+## 🔍 Data Objectives
 
 Capture structured data on surplus food (type, quantity, location, time sensitivity)
 
@@ -28,7 +28,7 @@ Generate insights on food waste patterns
 
 Support data-driven decision-making for sustainability initiatives
 
-📊 Data Collected
+## 📊 Data Collected
 
 Food category (e.g., cooked meals, produce, baked goods)
 
@@ -44,7 +44,7 @@ Recipient type (NGO, shelter, individual)
 
 Transaction outcomes (claimed, expired, redistributed)
 
-🏗️ Data Architecture (Conceptual)
+## 🏗️ Data Architecture (Conceptual)
 
 Data Ingestion: User submissions (forms + images metadata)
 
@@ -62,7 +62,7 @@ Analytics Layer: Aggregated metrics and trend analysis
 
 Visualization: Dashboards for insights and reporting
 
-📈 Key Metrics & KPIs
+## 📈 Key Metrics & KPIs
 
 Total food items shared vs expired
 
@@ -76,7 +76,7 @@ Geographic waste hotspots
 
 Donor participation trends
 
-🧠 Analytics & Use Cases
+## 🧠 Analytics & Use Cases
 
 Identify peak food waste periods by location or donor type
 
@@ -88,7 +88,7 @@ Provide reports to NGOs and sustainability partners
 
 Support policy and awareness initiatives with evidence-based insights
 
-🛠️ Tech Stack (Data-Oriented)
+## 🛠️ Tech Stack (Data-Oriented)
 
 Adapt as needed to match implementation
 
@@ -104,7 +104,7 @@ Visualization: Power BI / Tableau / Looker Studio
 
 Orchestration (Future): Airflow / Cloud Functions
 
-🔮 Future Data Enhancements
+## 🔮 Future Data Enhancements
 
 Machine learning for demand prediction
 
@@ -116,7 +116,7 @@ Real-time dashboards
 
 Open data exports for research and NGOs
 
-🌍 Impact (Data-Driven)
+## 🌍 Impact (Data-Driven)
 
 Turns food waste into measurable, actionable data
 
@@ -126,6 +126,6 @@ Supports sustainability through insights, not guesswork
 
 Demonstrates real-world data engineering and analytics application
 
-📌 Project Status
-
+## 📌 Project Status
+__________________________________________________________________________________________________________________
 🚧 In Development / Conceptual Data Platform
